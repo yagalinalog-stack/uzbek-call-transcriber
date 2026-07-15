@@ -1,0 +1,8 @@
+{
+  "name": "Uzbek Call Transcriber & Translator",
+  "description": "An AI-powered tool to transcribe Uzbek audio calls, translate them to Russian, separate speakers, and download results as TXT or DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
